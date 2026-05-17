@@ -36,7 +36,7 @@ Copy this when adding a new idea:
 
 **Example**
 
-> Example text that would be spoken
+    Example text that would be spoken
 
 **Voice / Style**
 - calm / dramatic / chaotic / monotone / etc.
